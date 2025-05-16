@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/workspace-images/workspace1.png",
+        "location": "Calgary, Canada",
+        "type": "Open desk area",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 2,
+        "image": "src/assets/workspace-images/workspace2.png",
+        "location": "Calgary, Canada",
+        "type": "Conference room",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 3,
+        "image": "src/assets/workspace-images/workspace3.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 4,
+        "image": "src/assets/workspace-images/workspace4.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 5,
+        "image": "src/assets/workspace-images/workspace5.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 6,
+        "image": "src/assets/workspace-images/workspace6.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 7,
+        "image": "src/assets/workspace-images/workspace7.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 8,
+        "image": "src/assets/workspace-images/workspace8.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 9,
+        "image": "src/assets/workspace-images/workspace9.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    },
+    {
+        "id": 10,
+        "image": "src/assets/workspace-images/workspace10.png",
+        "location": "Calgary, Canada",
+        "type": "Desk areas",
+        "price": "150.00 CAD",
+        "rating": 5.0
+    }
+]
